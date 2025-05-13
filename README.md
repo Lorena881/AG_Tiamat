@@ -96,12 +96,11 @@ Depois de baixar o projeto você deve abrí-lo no Jupyter Notebook/VS code
 </div>
 
 
-
 <h2 align="center"> :octocat:  Autores </h2>
 
 <div align="center">
 
-|  [<img loading="lazy" src="https://github.com/user-attachments/assets/421a946a-dd10-4477-8f3f-e1a277d997b0" width=115><br><sub>Glauber Nascimento de Oliveira</sub>](https://github.com/Glaubernaoli)<br> [<sub>Currículo Lattes</sub>](http://lattes.cnpq.br/0913262665776521)<br> [<sub>Linkedin</sub>](https://www.linkedin.com/in/glauber-naoli/) |  [<img loading="lazy" src="https://github.com/user-attachments/assets/6613216e-1df4-420c-a280-0df1116bfb64" width=115><br><sub>Lorena Ribeiro</sub>](https://github.com/Lorena881)<br> [<sub>Currículo Lattes</sub>](http://lattes.cnpq.br/1031555112242239)<br> [<sub>Linkedin</sub>](https://www.linkedin.com/in/enzo-januzzi-xavier-9063842b0/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) |  [<img loading="lazy" src="https://github.com/user-attachments/assets/cdd48e73-4c79-4c2e-8321-f07c8abd069c" width=115><br><sub>Julia Guedes</sub>](https://github.com/JuliaGuedesASantos)<br> [<sub>Currículo Lattes</sub>](http://lattes.cnpq.br/1031555112242239)<br> [<sub>Linkedin</sub>](https://www.linkedin.com/in/enzo-januzzi-xavier-9063842b0/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) |
+|  [<img loading="lazy" src="https://github.com/user-attachments/assets/0c4d1ac3-f05b-499f-8618-bfaf749b3504" width=115><br><sub>Glauber Nascimento</sub>](https://github.com/Glaubernaoli)<br> [<sub>Currículo Lattes</sub>](http://lattes.cnpq.br/0913262665776521)<br> [<sub>Linkedin</sub>](https://www.linkedin.com/in/glauber-naoli/) |  [<img loading="lazy" src="https://github.com/user-attachments/assets/6613216e-1df4-420c-a280-0df1116bfb64" width=115><br><sub>Lorena Ribeiro</sub>](https://github.com/Lorena881)<br> [<sub>Currículo Lattes</sub>](http://lattes.cnpq.br/1031555112242239)<br> [<sub>Linkedin</sub>](https://www.linkedin.com/in/enzo-januzzi-xavier-9063842b0/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) |  [<img loading="lazy" src="https://github.com/user-attachments/assets/cdd48e73-4c79-4c2e-8321-f07c8abd069c" width=115><br><sub>Julia Guedes</sub>](https://github.com/JuliaGuedesASantos)<br> [<sub>Currículo Lattes</sub>](http://lattes.cnpq.br/1031555112242239)<br> [<sub>Linkedin</sub>](https://www.linkedin.com/in/enzo-januzzi-xavier-9063842b0/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) |
 | :---: | :---: | :---: |
 
 <div align="center">
