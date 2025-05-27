@@ -47,7 +47,11 @@ bliblibli
 
 <div align="justify">
 
- `Algoritmo Gneético...`: Este modelo ... 
+ `Algoritmo Genético`: Este modelo ... 
+
+  `k-NN`: Este modelo ... 
+
+   `Árvore de Decisão`: Este modelo ...
 
 </div>
 
@@ -55,7 +59,7 @@ bliblibli
 
 <div align="justify">
 
-`pipipi`: ...
+`RMSE`: ...
 
 `popopoo`: métrica...
 
@@ -85,7 +89,7 @@ Depois de baixar o projeto você deve abrí-lo no Jupyter Notebook/VS code
 
 <div align="justify">
 
-`Python`, `Jupyter Notebook`, `VS Code`, `Math`, `Scikit Learn`, `Numpy`, `Pandas` , `Torch`
+`Python`, `Jupyter Notebook`, `VS Code`, `Math`, `Scikit Learn`, `Numpy`, `Pandas` , `Matplotlib`, `Pickel`
 
 </div>
 
