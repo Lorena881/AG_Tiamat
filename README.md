@@ -4,7 +4,7 @@
 
 </div>
 
-<h1 align="center"> O mineral com a maior dureza usando Algortimos Geneticos </h1>
+<h1 align="center"> O mineral com a maior dureza usando Algoritimos Geneticos </h1>
 
 ### Tiamat, Turma 2024
 ###  Glauber Nascimento de Oliveira, Julia Guedes e Lorena Ribeiro  
