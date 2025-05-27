@@ -39,7 +39,7 @@ bliblibli
 
 `.ipynb`: Treinamento do modelo e Definição da Função Objetivo
 
-`.ipynb`: Implementação do Algoritmo Genético
+`Implementação_AG.ipynb`: Implementação do Algoritmo Genético
 
 </div>
 
