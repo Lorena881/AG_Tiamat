@@ -33,9 +33,13 @@ bliblibli
 
 <div align="justify">
 
-`.csv`: Dataset usado no trabalho.
- 
-`.ipynb`: Neste notebook, estão todos os códigos necessários para rodar o modelo, seu treinamento e o cálculo das métricas.
+`Mineral_Dataset_Supplementary_Info.csv`: Dataset usado no trabalho.
+
+`.ipynb`: Estudo do dataset
+
+`.ipynb`: Treinamento do modelo e Definição da Função Objetivo
+
+`.ipynb`: Implementação do Algoritmo Genético
 
 </div>
 
