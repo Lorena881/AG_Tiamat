@@ -24,6 +24,8 @@ A construução do algoritmo cosistiu na predição dos valores de mineirais com
 
 <h2 align="left"> 🏹 Target </h2>
 
+`hardeness`: Dureza dos minerais.
+
 <div align="justify">
 
 
@@ -36,9 +38,9 @@ A construução do algoritmo cosistiu na predição dos valores de mineirais com
 
 `Mineral_Dataset_Supplementary_Info.csv`: Dataset usado no trabalho.
 
-`.ipynb`: Estudo do dataset
+`5.2 - Análise dos dados & Cria candidato.ipynb`: Estudo do dataset
 
-`.ipynb`: Treinamento do modelo e Definição da Função Objetivo
+`5.2 - Treinamento do modelo - Função objetivo.ipynb`: Treinamento do modelo e Definição da Função Objetivo
 
 `Implementação_AG.ipynb`: Implementação do Algoritmo Genético
 
@@ -48,11 +50,11 @@ A construução do algoritmo cosistiu na predição dos valores de mineirais com
 
 <div align="justify">
 
- `Algoritmo Genético`: Este modelo ... 
+ `Algoritmo Genético`: Este modelo foi utilizado para otimizar os parametrôs do modelo de Knn, visando econtrar propriedades que conferem um maior valor de dureza para os minerais.
 
-  `k-NN`: Este modelo ... 
+  `k-NN`: Este modelo foi utilizado para predizer a dureza dos materiais.
 
-   `Árvore de Decisão`: Este modelo ...
+   `Árvore de Decisão`: Este modelo foi utilizado para predizer a dureza dos materiais. (teste)
 
 </div>
 
@@ -60,13 +62,7 @@ A construução do algoritmo cosistiu na predição dos valores de mineirais com
 
 <div align="justify">
 
-`RMSE`: ...
-
-`popopoo`: métrica...
-
-`pupupu`: métrica...
-
-`blibliblub`: métrica...
+`RMSE`: métrica utilizada para calcular os erros de previsão do modelo.
 
 </div>
 
